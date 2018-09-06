@@ -6,3 +6,5 @@ a chrome extension that adds extra functionality to netflix!
 - [ ] Customization of My List (grouping, formatting)
 - [ ] Add reviews
 - [ ] Add trailers
+
+Builds onto [this](https://chrome.google.com/webstore/detail/imdb-ratings-for-netflix/dnbpnlalaijjbogmjbpdkdcohoibjcmp?hl=en)!
