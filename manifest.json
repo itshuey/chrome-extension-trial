@@ -1,0 +1,6 @@
+{
+  "name": "Netflix Chrome Extension",
+  "version": "1.0",
+  "description": "Adding functionality to netflix!",
+  "manifest_version": 2
+}
