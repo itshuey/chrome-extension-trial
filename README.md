@@ -8,5 +8,13 @@ a chrome extension that adds extra functionality to netflix!
 - [ ] Add trailers
 
 Builds onto [this](https://chrome.google.com/webstore/detail/imdb-ratings-for-netflix/dnbpnlalaijjbogmjbpdkdcohoibjcmp?hl=en)!
+.
 
-(currently learning through [this tutorial](https://developer.chrome.com/extensions/getstarted))
+.
+
+.
+
+.
+
+
+[[currently learning!]](https://developer.chrome.com/extensions/getstarted)
