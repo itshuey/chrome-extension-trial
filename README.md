@@ -1,5 +1,6 @@
 # netflix-chrome-extension
 a chrome extension that adds extra functionality to netflix!
+(currently learning through [this tutorial](https://developer.chrome.com/extensions/getstarted))
 
 #### Features in mind:
 - [ ] Expiration indicator on content to be removed 
